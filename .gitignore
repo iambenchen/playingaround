@@ -7,3 +7,10 @@ targetImageBACKUP/
 swapPhotos.sh
 swapPhotosBACKUP.sh
 resizeImages.sh
+mergedPhotosOld/
+merge_images_to_pdf.sh
+merged.pdf
+mergedreduced.pdf
+resizeImagesBACKUP.sh
+.DS_Store
+.gitignore
